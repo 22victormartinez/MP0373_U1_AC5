@@ -8,9 +8,6 @@ Aplicació a `app_alumne/`. S'ha completat el full d'estils `app_alumne/styles.c
 
 Per veure-la: obrir `app_alumne/index.html` amb Live Server.
 
-Captures:
-- `capturas/tasca1_web_pagina_completa.png` – resultat final de la web
-- `capturas/tasca1_codigo_1_blocs1-3.png` … `tasca1_codigo_4_bloc7.png` – codi CSS dels exercicis
 
 ## Tasca 2 – Flexbox Froggy
 Joc completat (24/24 nivells): `capturas/tasca2_flexbox_froggy_nivel24.png`
